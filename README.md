@@ -3,7 +3,7 @@
 This is an open-source remote control for [MAG](https://www.infomir.eu/eng/products/iptv-stb/) set-top boxes.
 It has the same functionality as the "MAGic Remote" app for [Android](https://play.google.com/store/apps/details?id=com.infomir.magicRemote&hl=en) and [iOS](https://apps.apple.com/us/app/magic-remote-tv-remote-control/id972015388).
 
-You can find more info about how it works in this [blog post](TBD).
+You can find more info about how it works in this [blog post](https://xakcop.com/post/magic-remote/).
 
 # Installation
 
