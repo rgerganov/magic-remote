@@ -72,6 +72,7 @@ You can find the RC codes for all buttons in this table:
 | F3          | 185     | f3        |
 | F4          | 186     | f4        |
 | 0-9         | 128-137 | 0-9       |
+| POWER       | 140     | o         |
 
 Instead of sending single keys, you can also use your keyboard as input:
 

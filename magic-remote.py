@@ -155,6 +155,9 @@ def on_press(sock, code, key):
         elif key.char == 't':
             # tv button
             send_rc_code(sock, code, 138)
+        elif key.char == 'o':
+            # power button
+            send_rc_code(sock, code, 140)
     elif key == keyboard.Key.esc:
         # home button
         send_rc_code(sock, code, 141)
